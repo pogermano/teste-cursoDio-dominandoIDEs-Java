@@ -10,6 +10,7 @@ public class PrimeiroPrograma {
 		// TODO Auto-generated method stub
 		Gato gato = new Gato();
 		gato.setNome("Tuca");
+		
 		gato.setCor("Branco");
 		gato.setIdade(54);
 		System.out.println(gato);
