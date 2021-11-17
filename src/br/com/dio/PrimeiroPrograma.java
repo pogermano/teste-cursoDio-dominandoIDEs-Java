@@ -13,7 +13,7 @@ public class PrimeiroPrograma {
 		gato.setCor("Branco");
 		gato.setIdade(54);
 		System.out.println(gato);
-		System.out.println("O nome do gato é "+gato.getNome());
+	 	System.out.println("O nome do gato é "+gato.getNome());
 		System.out.println("A idade do gato é: "+ gato.getIdade());
 	}
 
